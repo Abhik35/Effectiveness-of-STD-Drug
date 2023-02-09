@@ -43,12 +43,13 @@ Seaborn
 Numpy
 Pandas
 Sci-kit Learn
+matplotlib
 
 Model Building:
 I used different regression models to train the train dataset.I predicted with all the models.According to the result I came to know that Random Forest Regressor and Decision Tree Regressor are producing same result.
 
 Evaluation of Model:
-I saved 4 subission file of each model.Then I submitted the submission file to the hackerearth platform and I got good score(73.8) with Random Forest Regressor.
+I saved 4 subission file of each model.Then I submitted the submission file to the hackerearth platform and I got good score(75.8) with Random Forest Regressor.
 
 Result:
 I predicted the base socre with trained model and I saved a submission file as csv file having two column as "patient_id" and "base_score".
